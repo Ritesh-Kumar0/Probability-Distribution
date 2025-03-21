@@ -15,8 +15,8 @@ Make sure you have **Python 3.x** installed, then follow these steps:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Ritesh-Kumar0/probability-distribution-explorer.git
-   cd probability-distribution-explorer
+   git clone https://github.com/Ritesh-Kumar0/Probability-Distribution.git
+   cd Probability-Distribution
 
 
 Install dependencies:
